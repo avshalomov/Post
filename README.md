@@ -4,6 +4,12 @@ Welcome to Post website
 
 My first website.
 
+## Contact
+### Name: Kanan Avshalomov
+### Class: D130222ER
+### Mail: Kananav95@gmail.com
+### Phone: +972 54 289 5015
+
 ## Built by
 [ReactJS](https://reactjs.org)
 
